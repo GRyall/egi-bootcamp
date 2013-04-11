@@ -1,12 +1,12 @@
 Title
 
 Author
-
+GEorge
 Abstract
 
 intro
 
-cool graph
+REALLY AWESOME cool graph
 
 conclusion
 
